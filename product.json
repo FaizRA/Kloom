@@ -1,0 +1,336 @@
+{
+    "list": [{
+        "id": 1,
+        "produk": "Clog 1",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/1.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 2,
+        "produk": "Clog 2",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/2.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 3,
+        "produk": "Clog 3",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/3.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 4,
+        "produk": "Clog 4",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/4.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/4.1.png"
+        }]
+    }, {
+        "id": 5,
+        "produk": "Clog 5",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/5.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/5.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/5.2.png"
+        }]
+    }, {
+        "id": 6,
+        "produk": "Clog 6",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/6.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 7,
+        "produk": "Clog 7",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/7.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 8,
+        "produk": "Clog 8",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/8.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 9,
+        "produk": "Clog 9",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/9.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 10,
+        "produk": "Clog 10",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/10.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 11,
+        "produk": "Clog 11",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/11.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 12,
+        "produk": "Clog 12",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/12.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 13,
+        "produk": "Clog 13",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/13.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 14,
+        "produk": "Clog 14",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/14.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/14.1.png"
+        }]
+    }, {
+        "id": 15,
+        "produk": "Boot 15",
+        "kategori": "Boot",
+        "harga": 450000,
+        "image": "asset/produk/15.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/15.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/15.2.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/15.3.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/15.4.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/15.5.png"
+        }]
+    }, {
+        "id": 16,
+        "produk": "Boot 16",
+        "kategori": "Boot",
+        "harga": 450000,
+        "image": "asset/produk/16.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/16.1.png"
+        }]
+    }, {
+        "id": 17,
+        "produk": "Boot 17",
+        "kategori": "Boot",
+        "harga": 450000,
+        "image": "asset/produk/17.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/17.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/17.2.png"
+        }]
+    }, {
+        "id": 18,
+        "produk": "Clog 18",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/18.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 19,
+        "produk": "Clog 19",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/19.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 20,
+        "produk": "Clog 20",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/20.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/20.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/20.2.png"
+        }]
+    }, {
+        "id": 21,
+        "produk": "Clog 21",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/21.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/21.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/21.2.png"
+        }]
+    }, {
+        "id": 23,
+        "produk": "Clog 23",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/23.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/23.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/23.2.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/23.3.png"
+        }]
+    }, {
+        "id": 24,
+        "produk": "Clog 24",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/24.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/24.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/24.2.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/24.3.png"
+        }]
+    }, {
+        "id": 25,
+        "produk": "Clog 25",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/25.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 26,
+        "produk": "Clog 26",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/26.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 27,
+        "produk": "Clog 27",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/27.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 28,
+        "produk": "Clog 28",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/28.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 29,
+        "produk": "Clog 29",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/29.png",
+        "detail": "KLOOM Original Product",
+        "galeri": []
+    }, {
+        "id": 30,
+        "produk": "Clog 30",
+        "kategori": "Clog",
+        "harga": 450000,
+        "image": "asset/produk/30.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/30.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/30.2.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/30.3.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/30.4.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/30.5.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/30.6.png"
+        }]
+    }, {
+        "id": 31,
+        "produk": "Sandal 31",
+        "kategori": "Sandal",
+        "harga": 450000,
+        "image": "asset/produk/31.png",
+        "detail": "KLOOM Original Product",
+        "galeri": [{
+            "harga": 450000,
+            "image": "asset/produk/31.1.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/31.2.png"
+        }, {
+            "harga": 450000,
+            "image": "asset/produk/31.3.png"
+        }]
+    }]
+}
